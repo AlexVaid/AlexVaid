@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on open-source AI projects
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaid/) or via email: alex@vaid.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/vaid/) or via email: alex@vaid.dev
 - ⚡ Fun fact: I enjoy solving puzzles and logic games in my free time
 
 <!---
